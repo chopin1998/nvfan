@@ -1,2 +1,3 @@
 # nvfan
-control nvidia card fan
+
+我的显卡风扇在目标转速36附近时会共振， 为了解决这个问题， 写了这个小工具。
